@@ -3,9 +3,10 @@
   text.lbl { fill:#7d8590; font-size:13px; font-weight:600; }
   text.total { fill:#e6edf3; font-size:15px; font-weight:700; }
   .c { transform-box:fill-box; transform-origin:center; opacity:0; animation:pop 0.55s ease-out both; }
-  .g { animation:pop 0.55s ease-out both, flash 0.7000000000000001s ease-out both; }
+  .g { animation:pop 0.55s ease-out both, flash 0.7000000000000001s ease-out both, pulse 3.8s ease-in-out infinite; }
   @keyframes pop { 0%{opacity:0;transform:scale(.2)} 60%{opacity:1;transform:scale(1.1)} 100%{opacity:1;transform:scale(1)} }
-  @keyframes flash { 0%{filter:brightness(2.4)} 45%{filter:brightness(2.4)} 100%{filter:brightness(1)} }
+  @keyframes flash { 0%{filter:brightness(2.4) drop-shadow(0 0 5px #39d353)} 45%{filter:brightness(2.4) drop-shadow(0 0 5px #39d353)} 100%{filter:brightness(1) drop-shadow(0 0 0 transparent)} }
+  @keyframes pulse { 0%,100%{transform:scale(1);filter:brightness(1)} 50%{transform:scale(1.08);filter:brightness(1.35) drop-shadow(0 0 3px #26a641)} }
   @media (prefers-reduced-motion: reduce) { .c { opacity:1 !important; animation:none !important; } }
 </style>
 <rect width="888" height="158" fill="none"/>
