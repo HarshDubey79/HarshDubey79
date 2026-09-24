@@ -44,7 +44,14 @@ total = data["total"]["lastYear"]
 # ---- layout ----
 CELL, GAP, RAD, LEFT, TOP = 13, 3, 2.5, 34, 24
 COLORS = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
-FLASH = "#b4ffaa"
+# Keep each contribution level distinct while cycling green → teal → violet → rose.
+COLOR_CYCLE = [
+    None,
+    ("#134c5c", "#34305b", "#5a2547"),
+    ("#087c85", "#60429b", "#9c396d"),
+    ("#15a6b3", "#8966c7", "#d35d92"),
+    ("#35d5e2", "#b392ef", "#fc83b2"),
+]
 GRAY = "#7d8590"
 MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
 
@@ -72,21 +79,26 @@ for i, c in enumerate(contribs):
     wk, row, lvl = i//7, i%7, c["level"]
     x = LEFT + wk*(CELL+GAP); y = TOP + row*(CELL+GAP)
     delay = round((wk + row*0.55)/maxorder * REVEAL, 3)
-    cls = "c g" if lvl >= 1 else "c e"
+    cls = f"c g{lvl}" if lvl >= 1 else "c e"
     rects.append(
         f'<rect class="{cls}" x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="{RAD}" '
         f'fill="{COLORS[lvl]}" style="animation-delay:{delay}s"/>'
     )
+
+color_css = "\n".join(
+    f"  .g{lvl} {{ animation:pop {DUR}s ease-out both, color{lvl} 6s ease-in-out infinite; }}\n"
+    f"  @keyframes color{lvl} {{ 0%,100%{{fill:{COLORS[lvl]}}} "
+    f"25%{{fill:{cycle[0]}}} 50%{{fill:{cycle[1]}}} 75%{{fill:{cycle[2]}}} }}"
+    for lvl, cycle in enumerate(COLOR_CYCLE) if lvl > 0
+)
 
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
 <style>
   text.lbl {{ fill:{GRAY}; font-size:13px; font-weight:600; }}
   text.total {{ fill:#e6edf3; font-size:15px; font-weight:700; }}
   .c {{ transform-box:fill-box; transform-origin:center; opacity:0; animation:pop {DUR}s ease-out both; }}
-  .g {{ animation:pop {DUR}s ease-out both, flash {DUR+0.15}s ease-out both, pulse 3.8s ease-in-out infinite; }}
   @keyframes pop {{ 0%{{opacity:0;transform:scale(.2)}} 60%{{opacity:1;transform:scale(1.1)}} 100%{{opacity:1;transform:scale(1)}} }}
-  @keyframes flash {{ 0%{{filter:brightness(2.4) drop-shadow(0 0 5px #39d353)}} 45%{{filter:brightness(2.4) drop-shadow(0 0 5px #39d353)}} 100%{{filter:brightness(1) drop-shadow(0 0 0 transparent)}} }}
-  @keyframes pulse {{ 0%,100%{{transform:scale(1);filter:brightness(1)}} 50%{{transform:scale(1.08);filter:brightness(1.35) drop-shadow(0 0 3px #26a641)}} }}
+{color_css}
   @media (prefers-reduced-motion: reduce) {{ .c {{ opacity:1 !important; animation:none !important; }} }}
 </style>
 <rect width="{W}" height="{H}" fill="none"/>
