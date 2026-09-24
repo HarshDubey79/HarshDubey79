@@ -77,11 +77,11 @@ A full-stack placement-preparation platform designed to help students prepare fo
 
 ## �️ Animated Profile Art
 <p align="center">
-  <img src="./harsh-ascii.svg" width="840" alt="Animated ASCII portrait of Harsh Dubey" />
+  <img src="./harsh-ascii.svg" width="420" alt="Animated ASCII portrait of Harsh Dubey" />
 </p>
 
 <p align="center">
-  <img src="./wordmark.svg" width="487" alt="HARSH animated ASCII wordmark" />
+  <img src="./wordmark.svg" width="320" alt="HARSH animated ASCII wordmark" />
 </p>
 
 ## �📊 GitHub Activity
