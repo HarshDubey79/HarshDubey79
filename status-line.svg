@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="50" viewBox="0 0 620 50" role="img" aria-label="Harsh Dubey: building web apps, exploring AI and open to collaboration">
+  <title>Harsh Dubey — building, learning, collaborating</title>
+  <rect x="0.5" y="0.5" width="619" height="49" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="20" cy="25" r="5" fill="#39d353">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="36" y="30" fill="#7d8590" font-family="ui-monospace,Consolas,monospace" font-size="13">harsh@github:~$</text>
+  <g font-family="ui-monospace,Consolas,monospace" font-size="13" fill="#c9d1d9">
+    <text x="162" y="30">building web apps
+      <animate attributeName="opacity" values="1;1;0;0;0;0;1" keyTimes="0;0.28;0.32;0.63;0.66;0.98;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="162" y="30" opacity="0">exploring AI
+      <animate attributeName="opacity" values="0;0;1;1;0;0;0" keyTimes="0;0.28;0.32;0.63;0.66;0.98;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="162" y="30" opacity="0">open to collaboration
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.28;0.32;0.63;0.66;0.98;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <rect x="393" y="18" width="7" height="15" fill="#c9d1d9">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.48;0.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

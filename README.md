@@ -6,13 +6,29 @@
 
 Building practical web applications and AI-powered tools focused on learning, career preparation, and real-world developer workflows.
 
+<p><img src="./status-line.svg" width="620" alt="Harsh is building web apps, exploring AI, and open to collaboration" /></p>
+
 <p>
-  <a href="https://github.com/HarshDubey79">GitHub</a>
+  <a href="https://github.com/HarshDubey79">GitHub</a> ·
+  <a href="mailto:harshdubey3340@gmail.com">Email me</a> ·
+  <a href="https://www.linkedin.com/in/harsh-dubey-317556328/">LinkedIn</a>
 </p>
 
 </div>
 
+<p align="center">
+  <a href="#about">About</a> ·
+  <a href="#building">Building</a> ·
+  <a href="#stack">Tech Stack</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#art">Art</a> ·
+  <a href="#activity">Activity</a> ·
+  <a href="#connect">Connect</a>
+</p>
+
 ---
+
+<a id="about"></a>
 
 ## 👨‍💻 About Me
 
@@ -21,6 +37,7 @@ Building practical web applications and AI-powered tools focused on learning, ca
 - 🤖 Interested in integrating AI into practical products and developer tools
 - 🚀 Building projects that solve real-world problems
 - 🌱 Continuously learning modern JavaScript, React, Next.js, backend development and AI technologies
+<a id="building"></a>
 
 ## 🚀 Currently Building
 
@@ -28,15 +45,24 @@ Building practical web applications and AI-powered tools focused on learning, ca
 
 A full-stack placement-preparation platform designed to help students prepare for technical interviews and job opportunities.
 
-**Core features:**
+<details>
+<summary>✨ Explore planned features</summary>
+
 - 📄 Resume analysis
 - 🎯 AI-generated technical questions
 - 🎤 Voice-based mock interviews
 - 📊 Interview feedback and evaluation
 - 💼 Job-preparation workflows
 - 🤖 AI-assisted learning and career preparation
+[Explore SkillNex-AI on GitHub →](https://github.com/HarshDubey79/SkillNex-AI)
+
+</details>
+
+<a id="stack"></a>
 
 ## 🛠️ Tech Stack
+<details>
+<summary>🔎 Click to explore my tech stack</summary>
 
 **Languages:**
 `C` `C++` `Java` `Python` `JavaScript` `HTML` `CSS`
@@ -56,15 +82,18 @@ A full-stack placement-preparation platform designed to help students prepare fo
 **Tools & Cloud:**
 `Git` `GitHub` `VS Code` `Docker` `AWS` `Azure`
 
+</details>
+
+<a id="projects"></a>
+
 ## 📌 Featured Projects
 
 | Project | Description |
 |---|---|
-| **SkillNexAI** | AI-powered job preparation and placement platform |
-| **AI Resume Analyzer** | AI-assisted resume analysis and improvement workflow |
-| **AI Code Reviewer** | Tool concept for AI-assisted code analysis and suggestions |
-| **Portfolio Website** | Personal portfolio showcasing skills and projects |
-| **EpicGadgetsHub** | E-commerce web application for electronic gadgets |
+| [SkillNex-AI](https://github.com/HarshDubey79/SkillNex-AI) | AI-powered job preparation and placement platform |
+| [Portfolio Website](https://github.com/HarshDubey79/Portfolio-Website) | Personal portfolio showcasing skills and projects |
+| [Full-stack E-commerce](https://github.com/HarshDubey79/full-stack-e-commerce) | E-commerce web application |
+| [MovieHub](https://github.com/HarshDubey79/MovieHub) | Simple movies website |
 
 ## 🎯 Current Focus
 
@@ -75,25 +104,29 @@ A full-stack placement-preparation platform designed to help students prepare fo
 - Cloud deployment and developer tooling
 - Building portfolio-ready real-world projects
 
-## �️ Animated Profile Art
+<a id="art"></a>
+
+## 🖥️ Animated Profile Art
 <p align="center">
-  <img src="./harsh-ascii.svg" width="420" alt="Animated ASCII portrait of Harsh Dubey" />
+  <img src="./harsh-ascii.svg" width="270" alt="Animated ASCII portrait of Harsh Dubey" />
+  &nbsp;&nbsp;
+  <img src="./wordmark.svg" width="300" alt="HARSH animated ASCII wordmark" />
 </p>
 
-<p align="center">
-  <img src="./wordmark.svg" width="320" alt="HARSH animated ASCII wordmark" />
-</p>
+<a id="activity"></a>
 
-## �📊 GitHub Activity
+## 📊 GitHub Activity
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution activity" />
+
+<a id="connect"></a>
 
 ## 🔗 Connect
 
-- GitHub: `https://github.com/HarshDubey79`
-- LinkedIn: `https://www.linkedin.com/in/harsh-dubey-317556328/`
-- Instagram: `https://instagram.com/harshdubey_._`
-- X (Twitter): `https://x.com/HarshDubey7985`
-- Email: `harshdubey3340@gmail.com`
+- [GitHub](https://github.com/HarshDubey79)
+- [LinkedIn](https://www.linkedin.com/in/harsh-dubey-317556328/)
+- [Instagram](https://instagram.com/harshdubey_._)
+- [X (Twitter)](https://x.com/HarshDubey7985)
+- [Email me](mailto:harshdubey3340@gmail.com)
 
 ---
 
