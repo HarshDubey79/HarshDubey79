@@ -136,7 +136,7 @@ A full-stack placement-preparation platform designed to help students prepare fo
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Keep+building+and+keep+shipping+%F0%9F%9A%80&desc=terminal%3A+cat+mission.txt+%7C+lolcat+%7C%7C+wordmark.sh+--3d+%26%26+portrait.sh&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=55&descAlign=50" width="854" alt="terminal typing" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&text=Building+%E2%80%A2+Learning+%E2%80%A2+Shipping+%F0%9F%9A%80&desc=Open+to+collaboration+and+new+opportunities&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=35&descAlignY=55&descAlign=50" width="854" alt="Building • Learning • Shipping" />
 </p>
 </p>
 
