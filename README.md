@@ -136,7 +136,7 @@ A full-stack placement-preparation platform designed to help students prepare fo
 </p>
 
 <p align="center">
-  <img src="./skills-animation.svg" width="620" alt="Skill progress animation" />
+  <img src="./skills-animation.svg" width="630" alt="Skill progress animation" />
 </p>
 </p>
 
