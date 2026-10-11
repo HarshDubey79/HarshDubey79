@@ -13,7 +13,7 @@
 
 <!-- profile views + followers -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=HarshDubey79&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HarshDubey79&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=github" alt="profile views" />
   <img src="https://img.shields.io/github/followers/HarshDubey79?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="followers" />
   <img src="https://img.shields.io/github/stars/HarshDubey79?style=for-the-badge&logo=github" alt="stars" />
 </p>
