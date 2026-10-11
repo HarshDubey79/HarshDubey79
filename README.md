@@ -136,7 +136,7 @@ A full-stack placement-preparation platform designed to help students prepare fo
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&text=Building+%E2%80%A2+Learning+%E2%80%A2+Shipping+%F0%9F%9A%80&desc=Open+to+collaboration+and+new+opportunities&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=35&descAlignY=55&descAlign=50" width="854" alt="Building • Learning • Shipping" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=6,11,20,14,12&height=120&text=Harsh+Dubey&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MCA+Student+%E2%80%A2+Full-Stack+Dev+%E2%80%A2+AI+Enthusiast&descAlignY=55&descAlign=50&descSize=20" width="854" alt="Harsh Dubey advanced animation" />
 </p>
 </p>
 
