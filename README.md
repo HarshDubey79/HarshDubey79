@@ -151,7 +151,7 @@ A full-stack placement-preparation platform designed to help students prepare fo
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=HarshDubey79&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="stats" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=HarshDubey79&theme=dark&hide_border=false" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=HarshDubey79&theme=dark&hide_border=false" alt="streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshDubey79&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
 
 ### ✍️ Random Dev Quote
