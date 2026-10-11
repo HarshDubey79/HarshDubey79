@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Harsh%20Dubey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MCA%20Student%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20AI%20%26%20Full-Stack%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Harsh%20Dubey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MCA%20Student%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20AI%20%26%20Full-Stack%20Enthusiast&descAlignY=55&descAlign=50" width="854" alt="Harsh Dubey animated banner" />
 
 <div align="center">
 
@@ -43,7 +43,7 @@
   <a href="#connect">Connect</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="854" />
 
 <a id="about"></a>
 
@@ -208,7 +208,7 @@ A full-stack placement-preparation platform designed to help students prepare fo
 
 **Building • Learning • Improving • Shipping 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="854" alt="Thanks for visiting" />
 
 </div>
 
