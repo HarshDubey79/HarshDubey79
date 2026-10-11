@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="78" viewBox="0 0 720 78" role="img" aria-label="Connect with Harsh Dubey">
+<title>Connect with Harsh Dubey</title>
+<defs>
+  <linearGradient id="ghGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#24292f"/><stop offset="100%" stop-color="#0d1117"/></linearGradient>
+  <linearGradient id="liGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0077b5"/><stop offset="100%" stop-color="#0a66c2"/></linearGradient>
+  <linearGradient id="igGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#feda75"/><stop offset="25%" stop-color="#fa7e1e"/><stop offset="50%" stop-color="#d62976"/><stop offset="75%" stop-color="#962fbf"/><stop offset="100%" stop-color="#4f5bd5"/></linearGradient>
+  <linearGradient id="xGrad"  x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#000"/><stop offset="100%" stop-color="#1a1a1a"/></linearGradient>
+  <linearGradient id="emGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ea4335"/><stop offset="100%" stop-color="#d33426"/></linearGradient>
+  <filter id="sh"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.35"/></filter>
+</defs>
+
+<!-- bg -->
+<rect width="720" height="78" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+<!-- GitHub -->
+<a href="https://github.com/HarshDubey79" target="_blank">
+<g transform="translate(30,14)" filter="url(#sh)">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="2.2s" repeatCount="indefinite"/>
+    <rect width="122" height="50" rx="25" fill="url(#ghGrad)" stroke="#30363d" stroke-width="1"/>
+    <!-- github icon -->
+    <g transform="translate(16,14)">
+      <path fill="#fff" d="M11 0.3a11 11 0 0 0-3.48 21.46c.55.1.75-.24.75-.53v-1.88c-4.47.97-5.41-2.14-5.41-2.14-.73-1.86-1.78-2.36-1.78-2.36-1.45-.99.11-.97.11-.97 1.6.11 2.44 1.64 2.44 1.64 1.43 2.45 3.75 1.74 4.66 1.33.14-1.04.56-1.74 1.02-2.14-3.56-.4-7.31-1.78-7.31-7.92 0-1.75.62-3.18 1.64-4.3-.16-.4-.71-2.03.16-4.23 0 0 1.34-.43 4.39 1.64a15.2 15.2 0 0 1 8 0c3.04-2.07 4.38-1.64 4.38-1.64.87 2.2.32 3.83.16 4.23.99 1.12 1.64 2.55 1.64 4.3 0 6.15-3.75 7.51-7.32 7.91.58.5 1.1 1.48 1.1 2.98v4.42c0 .29.2.63.75.52A11 11 0 0 0 11 0.3z"/>
+    </g>
+    <text x="46" y="31" fill="#fff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700">GitHub</text>
+  </g>
+</g>
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/harsh-dubey-317556328/" target="_blank">
+<g transform="translate(168,14)" filter="url(#sh)">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="2.2s" begin="0.2s" repeatCount="indefinite"/>
+    <rect width="132" height="50" rx="25" fill="url(#liGrad)" stroke="#0a66c2" stroke-width="1"/>
+    <g transform="translate(16,15)">
+      <path fill="#fff" d="M14.5 2H2.5A1.5 1.5 0 0 0 1 3.5v12A1.5 1.5 0 0 0 2.5 17h12a1.5 1.5 0 0 0 1.5-1.5v-12A1.5 1.5 0 0 0 14.5 2zM5 14H3V7h2v7zM4 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm8 8H10V10.5a1.2 1.2 0 0 0-2.4 0V14H6V7h2v1.2A2.4 2.4 0 0 1 10 7c1.7 0 2 1.3 2 3v4z"/>
+    </g>
+    <text x="42" y="31" fill="#fff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700">LinkedIn</text>
+  </g>
+</g>
+</a>
+
+<!-- Instagram -->
+<a href="https://instagram.com/harshdubey_._" target="_blank">
+<g transform="translate(316,14)" filter="url(#sh)">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="2.2s" begin="0.4s" repeatCount="indefinite"/>
+    <rect width="138" height="50" rx="25" fill="url(#igGrad)" stroke="#d62976" stroke-width="1"/>
+    <g transform="translate(14,14)">
+      <rect x="1" y="1" width="20" height="20" rx="5" fill="none" stroke="#fff" stroke-width="1.8"/>
+      <circle cx="11" cy="11" r="4.5" fill="none" stroke="#fff" stroke-width="1.8"/>
+      <circle cx="17.2" cy="5.2" r="1.4" fill="#fff"/>
+    </g>
+    <text x="42" y="31" fill="#fff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700">Instagram</text>
+  </g>
+</g>
+</a>
+
+<!-- X -->
+<a href="https://x.com/HarshDubey7985" target="_blank">
+<g transform="translate(470,14)" filter="url(#sh)">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="2.2s" begin="0.6s" repeatCount="indefinite"/>
+    <rect width="108" height="50" rx="25" fill="url(#xGrad)" stroke="#333" stroke-width="1"/>
+    <g transform="translate(18,14)">
+      <path fill="#fff" d="M13.5 2L9.2 7.4 14.3 14H11.5L8.6 10.1 5.8 14H2.2l4.6-5.8L2 2h2.9l2.5 3.5L10 2h3.5zM11.2 12.3L4.1 3.4H5.6l6.1 8.9h-0.5z"/>
+    </g>
+    <text x="44" y="31" fill="#fff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="800">X</text>
+  </g>
+</g>
+</a>
+
+<!-- Email -->
+<a href="mailto:harshdubey3340@gmail.com" target="_blank">
+<g transform="translate(594,14)" filter="url(#sh)">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="2.2s" begin="0.8s" repeatCount="indefinite"/>
+    <rect width="106" height="50" rx="25" fill="url(#emGrad)" stroke="#b3261e" stroke-width="1"/>
+    <g transform="translate(16,15)">
+      <rect x="1" y="2" width="18" height="14" rx="2" fill="none" stroke="#fff" stroke-width="1.6"/>
+      <path d="M2 4 L10 10 L18 4" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="42" y="31" fill="#fff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700">Email</text>
+  </g>
+</g>
+</a>
+
+</svg>
