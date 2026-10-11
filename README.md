@@ -15,7 +15,6 @@
 <p>
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/HarshDubey79/HarshDubey79&query=$.stargazers_count&label=Stars&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="stars" />
   <img src="https://img.shields.io/github/followers/HarshDubey79?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="followers" />
-  <img src="https://komarev.com/ghpvc/?username=HarshDubey79&color=0e75b6&style=for-the-badge&label=Views" alt="profile views" />
 </p>
 
 <!-- ===== SOCIAL ICONS / LOGOS ROW (top) ===== -->
