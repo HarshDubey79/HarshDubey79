@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 620 90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-label="Terminal typing animation">
+<title>Terminal typing animation</title>
+<defs>
+  <linearGradient id="termBg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0d1117"/>
+    <stop offset="1" stop-color="#161b22"/>
+  </linearGradient>
+</defs>
+<rect width="620" height="90" rx="8" fill="url(#termBg)" stroke="#30363d" stroke-width="1"/>
+<rect x="0" y="0" width="620" height="24" rx="8" fill="#161b22"/>
+<circle cx="12" cy="12" r="5" fill="#ff5f56"/>
+<circle cx="28" cy="12" r="5" fill="#ffbd2e"/>
+<circle cx="44" cy="12" r="5" fill="#27c93f"/>
+<text x="310" y="16" text-anchor="middle" fill="#7d8590" font-size="10">harsh@github: ~$</text>
+
+<!-- Line 1: echo -->
+<text id="line1" x="14" y="42" font-size="13" fill="#c9d1d9" opacity="0">
+  <tspan fill="#7ee787">harsh@github:~$</tspan> <tspan fill="#ff7b72">echo</tspan> <tspan fill="#a5d6ff">"Keep building and keep shipping 🚀"</tspan>
+</text>
+
+<!-- Line 2: cat -->
+<text id="line2" x="14" y="60" font-size="13" fill="#c9d1d9" opacity="0">
+  <tspan fill="#7ee787">harsh@github:~$</tspan> <tspan fill="#ff7b72">cat</tspan> <tspan fill="#a5d6ff">mission.txt</tspan> <tspan fill="#8b949e">|</tspan> <tspan fill="#ff7b72">lolcat</tspan>
+</text>
+
+<!-- Line 3: wordmark + portrait -->
+<text id="line3" x="14" y="78" font-size="13" fill="#c9d1d9" opacity="0">
+  <tspan fill="#7ee787">harsh@github:~$</tspan> <tspan fill="#ff7b72">./wordmark.sh</tspan> <tspan fill="#a5d6ff">--3d</tspan> <tspan fill="#8b949e">&&</tspan> <tspan fill="#ff7b72">./portrait.sh</tspan>
+</text>
+
+<!-- Blinking cursor on line 3 -->
+<rect id="cursor" x="485" y="68" width="8" height="14" rx="1" fill="#c9d1d9" opacity="0"/>
+
+<!-- Animation sequence: 8s total loop -->
+<!-- Line 1 appears at 0.5s, stays until 7.5s -->
+<set xlink:href="#line1" attributeName="opacity" to="1" begin="0.5s"/>
+<set xlink:href="#line1" attributeName="opacity" to="0" begin="7.5s"/>
+
+<!-- Line 2 appears at 2.5s, stays until 7.5s -->
+<set xlink:href="#line2" attributeName="opacity" to="1" begin="2.5s"/>
+<set xlink:href="#line2" attributeName="opacity" to="0" begin="7.5s"/>
+
+<!-- Line 3 appears at 4.5s, stays until 7.5s -->
+<set xlink:href="#line3" attributeName="opacity" to="1" begin="4.5s"/>
+<set xlink:href="#line3" attributeName="opacity" to="0" begin="7.5s"/>
+
+<!-- Cursor blinks after line 3 appears -->
+<set xlink:href="#cursor" attributeName="opacity" to="1" begin="5.5s"/>
+<animate xlink:href="#cursor" attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" begin="5.5s"/>
+<set xlink:href="#cursor" attributeName="opacity" to="0" begin="7.5s"/>
+
+<!-- Loop: restart at 8s -->
+<set xlink:href="#line1" attributeName="opacity" to="1" begin="8.5s"/>
+<set xlink:href="#line2" attributeName="opacity" to="1" begin="10.5s"/>
+<set xlink:href="#line3" attributeName="opacity" to="1" begin="12.5s"/>
+<set xlink:href="#cursor" attributeName="opacity" to="1" begin="13.5s"/>
+<animate xlink:href="#cursor" attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" begin="13.5s"/>
+<set xlink:href="#line1" attributeName="opacity" to="0" begin="15.5s"/>
+<set xlink:href="#line2" attributeName="opacity" to="0" begin="15.5s"/>
+<set xlink:href="#line3" attributeName="opacity" to="0" begin="15.5s"/>
+<set xlink:href="#cursor" attributeName="opacity" to="0" begin="15.5s"/>
+
+<!-- Third loop -->
+<set xlink:href="#line1" attributeName="opacity" to="1" begin="16.5s"/>
+<set xlink:href="#line2" attributeName="opacity" to="1" begin="18.5s"/>
+<set xlink:href="#line3" attributeName="opacity" to="1" begin="20.5s"/>
+<set xlink:href="#cursor" attributeName="opacity" to="1" begin="21.5s"/>
+<animate xlink:href="#cursor" attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" begin="21.5s"/>
+<set xlink:href="#line1" attributeName="opacity" to="0" begin="23.5s"/>
+<set xlink:href="#line2" attributeName="opacity" to="0" begin="23.5s"/>
+<set xlink:href="#line3" attributeName="opacity" to="0" begin="23.5s"/>
+<set xlink:href="#cursor" attributeName="opacity" to="0" begin="23.5s"/>
+
+</svg>
