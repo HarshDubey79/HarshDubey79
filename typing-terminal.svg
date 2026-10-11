@@ -13,35 +13,35 @@
 <circle cx="44" cy="12" r="5" fill="#27c93f"/>
 <text x="310" y="16" text-anchor="middle" fill="#7d8590" font-size="10">harsh@github: ~$</text>
 
-<!-- Line 1: echo (0.5s-7.5s visible, 8s loop) -->
-<text x="14" y="42" font-size="13" fill="#c9d1d9" opacity="0">
-  <tspan fill="#7ee787">harsh@github:~$</tspan> <tspan fill="#ff7b72">echo</tspan> <tspan fill="#a5d6ff">"Keep building and keep shipping 🚀"</tspan>
+<!-- Line 1: echo -->
+<text x="14" y="42" font-size="13" fill="#c9d1d9">
+  <tspan fill="#7ee787">harsh@github:~$</tspan> <tspan fill="#ff7b72">echo</tspan> <tspan fill="#a5d6ff">"Keep building and keep shipping"</tspan>
   <animate attributeName="opacity" dur="8s" repeatCount="indefinite"
-    values="0;1;0"
-    keyTimes="0;0.0625;0.9375"/>
+    values="0;1;1;0"
+    keyTimes="0;0.0625;0.9375;1"/>
 </text>
 
-<!-- Line 2: cat (2.5s-7.5s visible) -->
-<text x="14" y="60" font-size="13" fill="#c9d1d9" opacity="0">
+<!-- Line 2: cat -->
+<text x="14" y="60" font-size="13" fill="#c9d1d9">
   <tspan fill="#7ee787">harsh@github:~$</tspan> <tspan fill="#ff7b72">cat</tspan> <tspan fill="#a5d6ff">mission.txt</tspan> <tspan fill="#8b949e">|</tspan> <tspan fill="#ff7b72">lolcat</tspan>
   <animate attributeName="opacity" dur="8s" repeatCount="indefinite"
-    values="0;1;0"
-    keyTimes="0;0.3125;0.9375"/>
+    values="0;0;1;1;0"
+    keyTimes="0;0.3125;0.375;0.9375;1"/>
 </text>
 
-<!-- Line 3: wordmark + portrait (4.5s-7.5s visible) -->
-<text x="14" y="78" font-size="13" fill="#c9d1d9" opacity="0">
+<!-- Line 3: wordmark + portrait -->
+<text x="14" y="78" font-size="13" fill="#c9d1d9">
   <tspan fill="#7ee787">harsh@github:~$</tspan> <tspan fill="#ff7b72">./wordmark.sh</tspan> <tspan fill="#a5d6ff">--3d</tspan> <tspan fill="#8b949e">&&</tspan> <tspan fill="#ff7b72">./portrait.sh</tspan>
   <animate attributeName="opacity" dur="8s" repeatCount="indefinite"
-    values="0;1;0"
-    keyTimes="0;0.5625;0.9375"/>
+    values="0;0;0;1;1;0"
+    keyTimes="0;0.3125;0.5625;0.625;0.9375;1"/>
 </text>
 
-<!-- Blinking cursor on line 3 (visible 5.5s-7.5s) -->
+<!-- Blinking cursor on line 3 -->
 <rect x="485" y="68" width="8" height="14" rx="1" fill="#c9d1d9" opacity="0">
   <animate attributeName="opacity" dur="8s" repeatCount="indefinite"
-    values="0;1;0"
-    keyTimes="0;0.6875;0.9375"/>
+    values="0;0;0;0;1;0"
+    keyTimes="0;0.5;0.6875;0.75;0.8125;1"/>
 </rect>
 
 </svg>
