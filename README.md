@@ -6,7 +6,7 @@
 <img src="./hero.svg" width="900" alt="Harsh Dubey — animated hero banner" />
 
 <!-- typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=780&lines=Building+practical+web+apps+%E2%80%A2+Exploring+AI+%E2%80%A2+Open+to+collaboration;MCA+Student+%40+Lloyd+Institute+of+Engineering+and+Technology;Currently+building+SkillNexAI+%E2%80%94+AI+Job+Preparation+Platform" alt="Typing animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Building+practical+web+apps+%E2%80%A2+Exploring+AI+%E2%80%A2+Open+to+collaboration&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MCA+Student+%40+Lloyd+Institute+%E2%80%A2+Currently+building+SkillNexAI&descAlignY=55&descAlign=50" width="854" alt="Animated typing banner" />
 
 <!-- status line enhanced -->
 <p><img src="./status-line.svg" width="620" alt="Harsh is building web apps, exploring AI, and open to collaboration" /></p>
@@ -148,7 +148,7 @@ A full-stack placement-preparation platform designed to help students prepare fo
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2600&pause=900&color=7d8590&center=true&vCenter=true&width=620&lines=harsh%40github%3A~%24+echo+%22Keep+building+and+keep+shipping+%F0%9F%9A%80%22;harsh%40github%3A~%24+cat+mission.txt+%7C+lolcat;harsh%40github%3A~%24+./wordmark.sh+--3d+%26%26+./portrait.sh" alt="terminal typing" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&text=Keep+building+and+keep+shipping+%F0%9F%9A%80&desc=cat+mission.txt+%7C+lolcat+%7C%7C+./wordmark.sh+--3d+%26%26+./portrait.sh&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=55&descAlign=50" width="854" alt="terminal typing" />
 </p>
 
 <a id="activity"></a>
@@ -198,7 +198,7 @@ A full-stack placement-preparation platform designed to help students prepare fo
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+amazing+together+%F0%9F%9A%80;Open+to+collaboration+and+new+opportunities+%E2%9C%A8" alt="thanks typing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&text=Thanks+for+visiting+%F0%9F%91%8B&desc=Let's+build+something+amazing+together+%F0%9F%9A%80+%E2%9C%A8+Open+to+collaboration&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=55&descAlign=50" width="854" alt="thanks" />
 
 </div>
 
