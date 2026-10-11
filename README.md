@@ -41,10 +41,6 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfvh6jZn3/giphy.gif" width="250" alt="coding gif" />
-</p>
-
 - 🎓 Pursuing **MCA** at **Lloyd Institute of Engineering and Technology**
 - 💻 Focused on **Web Development, Full-Stack Development and AI-powered applications**
 - 🤖 Interested in integrating AI into practical products and developer tools
