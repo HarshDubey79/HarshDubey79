@@ -1,23 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Harsh%20Dubey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MCA%20Student%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20AI%20%26%20Full-Stack%20Enthusiast&descAlignY=55&descAlign=50" width="854" alt="Harsh Dubey animated banner" />
-
 <div align="center">
 
-<!-- ============ HERO BANNER ============ -->
-<img src="./hero.svg" width="900" alt="Harsh Dubey — animated hero banner" />
-
-<!-- typing animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Building+practical+web+apps+%E2%80%A2+Exploring+AI+%E2%80%A2+Open+to+collaboration&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MCA+Student+%40+Lloyd+Institute+%E2%80%A2+Currently+building+SkillNexAI&descAlignY=55&descAlign=50" width="854" alt="Animated typing banner" />
+<!-- ============ HERO BANNER (single animated banner) ============ -->
+<img src="./hero.svg" width="854" alt="Harsh Dubey — animated hero banner" />
 
 <!-- status line enhanced -->
 <p><img src="./status-line.svg" width="620" alt="Harsh is building web apps, exploring AI, and open to collaboration" /></p>
 
-<!-- profile views + followers -->
+<!-- stars + followers -->
 <p>
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/HarshDubey79/HarshDubey79&query=$.stargazers_count&label=Stars&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="stars" />
   <img src="https://img.shields.io/github/followers/HarshDubey79?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="followers" />
 </p>
 
-<!-- ===== SOCIAL ICONS / LOGOS ROW (top) ===== -->
+<!-- social icon badges -->
 <p>
   <a href="https://github.com/HarshDubey79"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/harsh-dubey-317556328/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -26,9 +21,6 @@
   <a href="mailto:harshdubey3340@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/HarshDubey79/Portfolio-Website"><img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
-
-<!-- animated floating connect strip -->
-<p><img src="./socials.svg" width="720" alt="Connect — animated social pills" /></p>
 
 </div>
 
@@ -49,7 +41,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfvh6jZn3/giphy.gif" width="250" alt="coding gif" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfvh6jZn3/giphy.gif" width="250" alt="coding gif" />
+</p>
 
 - 🎓 Pursuing **MCA** at **Lloyd Institute of Engineering and Technology**
 - 💻 Focused on **Web Development, Full-Stack Development and AI-powered applications**
@@ -58,8 +52,6 @@
 - 🌱 Continuously learning modern JavaScript, React, Next.js, backend development and AI technologies
 - 📫 Reach me: **harshdubey3340@gmail.com**
 - ⚡ Fun fact: I love turning ideas into interactive web experiences!
-
-<br clear="right"/>
 
 <a id="building"></a>
 
@@ -154,7 +146,7 @@ A full-stack placement-preparation platform designed to help students prepare fo
 <a id="activity"></a>
 
 ## 📊 GitHub Activity
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution activity" />
+<img src="./contrib-heatmap.svg" width="854" alt="GitHub contribution activity" />
 
 <a id="stats"></a>
 
@@ -180,9 +172,10 @@ A full-stack placement-preparation platform designed to help students prepare fo
 
 <div align="center">
 
+<!-- single animated social pills strip -->
 <img src="./socials.svg" width="720" alt="Connect — animated social pills" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/HarshDubey79"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/harsh-dubey-317556328/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -190,7 +183,7 @@ A full-stack placement-preparation platform designed to help students prepare fo
 <a href="https://x.com/HarshDubey7985"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 <a href="mailto:harshdubey3340@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/HarshDubey79"><img src="https://img.shields.io/github/followers/HarshDubey79?style=social&logo=github" alt="follow" /></a>
 <img src="https://img.shields.io/badge/MCA-LIET-238636?style=flat-square&logo=graduationcap&logoColor=white" alt="MCA" />
@@ -198,7 +191,7 @@ A full-stack placement-preparation platform designed to help students prepare fo
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&text=Thanks+for+visiting+%F0%9F%91%8B&desc=Let's+build+something+amazing+together+%F0%9F%9A%80+%E2%9C%A8+Open+to+collaboration&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=55&descAlign=50" width="854" alt="thanks" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="854" alt="Thanks for visiting" />
 
 </div>
 
@@ -207,8 +200,6 @@ A full-stack placement-preparation platform designed to help students prepare fo
 <div align="center">
 
 **Building • Learning • Improving • Shipping 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="854" alt="Thanks for visiting" />
 
 </div>
 
