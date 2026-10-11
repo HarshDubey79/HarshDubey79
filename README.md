@@ -13,19 +13,19 @@
 
 <!-- profile views + followers -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=HarshDubey79&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=github" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/HarshDubey79?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="followers" />
-  <img src="https://img.shields.io/github/stars/HarshDubey79?style=for-the-badge&logo=github" alt="stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/HarshDubey79/HarshDubey79&query=$.stargazers_count&label=Stars&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="stars" />
+  <img src="https://img.shields.io/github/followers/HarshDubey79?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=HarshDubey79&color=0e75b6&style=for-the-badge&label=Views" alt="profile views" />
 </p>
 
 <!-- ===== SOCIAL ICONS / LOGOS ROW (top) ===== -->
 <p>
-  <a href="https://github.com/HarshDubey79"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/harsh-dubey-317556328/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/harshdubey_._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/HarshDubey7985"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:harshdubey3340@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/HarshDubey79/Portfolio-Website"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/HarshDubey79"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/harsh-dubey-317556328/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/harshdubey_._"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/HarshDubey7985"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:harshdubey3340@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/HarshDubey79/Portfolio-Website"><img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <!-- animated floating connect strip -->
@@ -185,15 +185,15 @@ A full-stack placement-preparation platform designed to help students prepare fo
 
 <br/>
 
-<a href="https://github.com/HarshDubey79"><img src="https://img.shields.io/badge/GitHub-HarshDubey79-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/harsh-dubey-317556328/"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Dubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/harshdubey_._"><img src="https://img.shields.io/badge/Instagram-%40harshdubey__._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://x.com/HarshDubey7985"><img src="https://img.shields.io/badge/X-%40HarshDubey7985-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="mailto:harshdubey3340@gmail.com"><img src="https://img.shields.io/badge/Gmail-harshdubey3340%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/HarshDubey79"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/harsh-dubey-317556328/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/harshdubey_._"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://x.com/HarshDubey7985"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="mailto:harshdubey3340@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/>
 
-<a href="https://github.com/HarshDubey79"><img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=social&logo=github" alt="follow" /></a>
+<a href="https://github.com/HarshDubey79"><img src="https://img.shields.io/github/followers/HarshDubey79?style=social&logo=github" alt="follow" /></a>
 <img src="https://img.shields.io/badge/MCA-LIET-238636?style=flat-square&logo=graduationcap&logoColor=white" alt="MCA" />
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-1f6feb?style=flat-square&logo=robotframework&logoColor=white" alt="focus" />
 
